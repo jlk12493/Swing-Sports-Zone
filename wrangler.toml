@@ -1,0 +1,7 @@
+name = "swing-sports-zone"
+compatibility_date = "2026-03-30"
+main = "worker.js"
+
+[assets]
+directory = "./"
+binding = "ASSETS"
